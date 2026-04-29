@@ -1,0 +1,14 @@
+Design Phase 
+
+The main goal of the design phase is to plan how the software will be built, including its structure, UI/UX, and overall system design. 
+
+2 tools for the design stage:
+ 
+* Figma is a tool for creating, sharing, and testing designs for websites, mobile apps, and digital products. 
+
+* Lucidchart is a web-based tool used to create and share diagrams and charts for system design and processes. 
+
+The difference between system design and UI/UX design is that system design focuses on how a software system works internally (architecture, components, and interactions), while UI/UX design focuses on how it looks and how users interact with it (interface and experience). 
+
+One example of poor design is when a website is confusing for users, so they do not understand how to use it, and the project may need to be redesigned or even fail.
+
