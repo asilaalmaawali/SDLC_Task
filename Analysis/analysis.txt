@@ -1,0 +1,15 @@
+Analysis Phase 
+
+The Analysis Phase is when you understand what the software/system needs and decide what it should do. 
+
+The Output of Analysis stage: SRS (software requirement sheet) document describing all system requirements. 
+
+Three roles in the analysis stage: 
+
+* Product Owner – defines the product goals and communicates with stakeholders. 
+
+* Business Analyst – gathers and analyses requirements. 
+
+* Project Manager – plans, manages timeline, and coordinates the team. 
+
+ 
