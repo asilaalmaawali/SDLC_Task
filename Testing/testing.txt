@@ -1,0 +1,23 @@
+Testing Phase 
+
+The purpose of the testing phase is to find and fix bugs to make sure the software works correctly and meets requirements. 
+
+Three types of testing:       
+
+1- Continuous testing: Testing is done repeatedly during development to find problems early.  
+
+2- Configuration management: Keeps all test files, code, and results organized in one place so teams can track changes easily. 
+
+3- Defect tracking: Records and follows bugs so they can be fixed properly.  
+
+Two tools used for testing: 
+
+1- Selenium is a free tool used to automatically test web applications and check if they work correctly. 
+
+3- Apache JMeter is a free tool used to test how fast and strong a website or application is when many users use it at the same time.
+
+Automated testing saves time by running tests automatically, quickly finding mistakes, and letting developers check the software many times easily. 
+
+A case study showing how testing caught critical bugs before release: 
+Microsoft uses the Windows Insider Program to test pre-release versions of Windows with real users.
+During this testing, critical bugs and system issues are found and fixed before the official release. 
