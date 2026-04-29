@@ -1,0 +1,21 @@
+Maintenance Phase 
+
+The maintenance phase never ends because software must be continuously updated to fix bugs, improve performance, and adapt to new user needs and technology changes
+
+
+Three maintenance activities: 
+
+* Bug detection and fixing finding problems and improving the system  
+* Performance monitoring: checking system health and fixing issues early  
+*Feature updates and improvements: adding or improving features based on feedback 
+
+User feedback helps developers understand real problems users face, so they can fix bugs, improve features, 
+and make the software easier and better to use. It guides what updates are needed most. 
+
+IOS is regularly updated by Apple to fix bugs, improve performance, and patch security issues before they become serious problems for users. 
+
+
+Tools used for tracking and maintenance 
+
+* Jira is used for tracking bugs and managing tasks  
+* ServiceNow is a platform that helps businesses manage IT services, fix problems, and automate workflows so work is faster and easier. 
