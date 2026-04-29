@@ -1,0 +1,24 @@
+Deployment Phase 
+
+
+The deployment phase is when the completed software is released and made available for users to use in the real environment.
+
+Two deployment models: 
+
+1- Manual deployment is when software is released and installed manually by people without using automation tools. 
+
+2- Continuous Deployment: Software updates are automatically released after testing without manual work. 
+
+Three tools or platforms used in deployment (e.g., Jenkins, AWS, Docker): 
+
+1- Jenkins is a free tool that automates building, testing, and deploying software. 
+
+2- AWS is a cloud platform that provides services like computing, storage, and databases, where users pay only for what they use. 
+
+3- Docker is a platform that runs applications in lightweight containers, so they are fast, portable, and isolated. 
+
+DevOps supports the deployment phase by combining development and operations to automate software releases,
+making deployment faster, more reliable, and reducing errors through continuous integration and delivery.
+
+A real incident occurred for CrowdStrike (cloud security update issue, 2024): 
+A faulty update from CrowdStrike caused many Windows computers to crash, leading to downtime in services like airlines and banks around the world. 
