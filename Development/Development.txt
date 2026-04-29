@@ -1,0 +1,26 @@
+Development Phase 
+
+In the development phase, the team starts coding the software based on the design documents and builds all required features and systems. 
+
+
+The front-end and back-end responsibilities: 
+
+Front-end responsibility                                              Back-end responsibility 
+
+Design and build the user interface (what users see).    Handle server-side (how the system works behind the scenes). 
+
+Make the website easy to use and navigate.                Manage databases to store and get data. 
+
+Make sure the website is accessible to all users.         Add security to protect data. 
+
+Three tools or technologies commonly used by developers: 
+
+1- GitHub is a platform where you can store, share, and work together with others to write code. 
+
+2- VS Code is a free tool used by developers to write, edit, and manage code for building software, websites, and apps. 
+
+3- Spring Boot is a tool that helps developers quickly build and run Java applications with less configuration and setup. 
+
+Version control is essential in development because it helps track code changes, supports teamwork, improves code quality, and speeds up the development process. 
+
+A real case is the Healthcare.gov website (USA, 2013), which failed at launch because of poor development practices like weak testing, rushed coding, and poor coordination between teams, causing the website to crash and not work properly for many users.
